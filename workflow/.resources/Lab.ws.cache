@@ -177,6 +177,19 @@
        <int>1</int>
       </void>
       <void property="processDescription">
+       <string>Cadastro de novo Ponto Comercial xeroxxx</string>
+      </void>
+      <void property="processId">
+       <string>CadastrodenovoPontoComercialxeroxxx</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.totvs.tds.ecm.foundation.ws.ProcessDefinitionDto">
+      <void property="companyId">
+       <int>1</int>
+      </void>
+      <void property="processDescription">
        <string>Cadastro Novo Ponto Comercial</string>
       </void>
       <void property="processId">
@@ -333,7 +346,7 @@
        <int>1</int>
       </void>
       <void property="processDescription">
-       <string>Novo Ponto Comercial</string>
+       <string>Cadastro de novo Ponto Comercial xeroxxx</string>
       </void>
       <void property="processId">
        <string>NovoPontoComercialXerox</string>
