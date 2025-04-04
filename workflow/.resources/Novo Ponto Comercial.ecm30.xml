@@ -10,7 +10,8 @@
     <publicProcess>false</publicProcess>
     <volumeId>Default</volumeId>
     <categoryId>SilvaXerox</categoryId>
-    <managerEngineAllocationId></managerEngineAllocationId>
+    <managerEngineAllocationId>mecCustomAprovXerox</managerEngineAllocationId>
+    <managerEngineAllocationConfiguration></managerEngineAllocationConfiguration>
     <snapshotFrequency>0</snapshotFrequency>
     <baseDay>0</baseDay>
     <baseMonth>0</baseMonth>
@@ -28,7 +29,7 @@
     <processDefinitionVersionPK>
       <companyId>1</companyId>
       <processId>Novo Ponto Comercial de romulo da strategi</processId>
-      <version>10</version>
+      <version>9</version>
     </processDefinitionVersionPK>
     <versionDescription></versionDescription>
     <formId>48</formId>
@@ -479,7 +480,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>NovoPontoComercial</processId>
-        <version>10</version>
+        <version>9</version>
         <linkSequence>3</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -490,7 +491,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>NovoPontoComercial</processId>
-        <version>10</version>
+        <version>9</version>
         <linkSequence>5</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -501,7 +502,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>NovoPontoComercial</processId>
-        <version>10</version>
+        <version>9</version>
         <linkSequence>11</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -512,7 +513,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>NovoPontoComercial</processId>
-        <version>10</version>
+        <version>9</version>
         <linkSequence>14</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
@@ -523,7 +524,7 @@
       <processLinkBendPK>
         <companyId>1</companyId>
         <processId>NovoPontoComercial</processId>
-        <version>10</version>
+        <version>9</version>
         <linkSequence>15</linkSequence>
         <bendSequence>1</bendSequence>
       </processLinkBendPK>
